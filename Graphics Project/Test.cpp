@@ -1,4 +1,4 @@
-   // Example_8_1.cpp : Rotating Wire-Frame 3D Curve
+// Example_8_1.cpp : Rotating Wire-Frame 3D Curve
 //
 // Author  : Mike Chantler
 // Date    : 29/04/2008
@@ -32,8 +32,6 @@
 //======================================================
 // LETTER PARAMETERS
 //======================================================
-
-#define LETTER_WIDTH 3
 
 //======================================================
 // GLOBAL VARIABLES 
