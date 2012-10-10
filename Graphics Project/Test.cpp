@@ -1,7 +1,6 @@
-// Example_8_1.cpp : Rotating Wire-Frame 3D Curve
-//
-// Author  : Mike Chantler
-// Date    : 29/04/2008
+
+// Author  : Saad Arif
+// Date    : 10/09/2012
 // Version : 1.1 - Commenting changed to match other examples style
 //
 // Program behaviour:
